@@ -2,8 +2,8 @@
 
 Chrome Browser extension to removes the scrollbar via css by injecting:
 
-′′′css
+ ``` css
 ::-webkit-scrollbar {
     display: none
 }
-′′′
+```
